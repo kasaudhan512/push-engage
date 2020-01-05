@@ -1,0 +1,16 @@
+{
+  "name": "push-engage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shubham kasaudhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "kafka-node": "^5.0.0",
+    "mysql": "^2.17.1"
+  }
+}
